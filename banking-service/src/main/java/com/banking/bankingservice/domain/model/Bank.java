@@ -27,7 +27,4 @@ public class Bank {
 
     private String email;
 
-    @Version
-    private int version;
-
 }
